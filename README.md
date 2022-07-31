@@ -19,6 +19,8 @@ using which we can train a Convolutional neural network. In the following figure
 we showed the effect of denoising the original audio files
 ![](./original-denoised.png)
 
+and the corresponding spectrogram for the same audio files are shown below:
+![](./spectrogram.png)
 
 
 The arrangment of this work is as follows:
