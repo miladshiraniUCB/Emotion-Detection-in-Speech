@@ -17,13 +17,15 @@ and to denoise them we used [noisereduce](https://pypi.org/project/noisereduce/)
 Afterward we convert the denoised audio files into their corresponding spectrograms 
 using which we can train a Convolutional neural network. In the following figure
 we showed the effect of denoising the original audio files
+
 ![](./original-denoised.png)
 
-and the corresponding spectrogram for the same audio files are shown below:
+and the corresponding spectrogram for the same audio files are shown below
+
 ![](./spectrogram.png)
 
 
-The arrangment of this work is as follows:
+The arrangment of this work is as follows
 
 1. The folder [`Toronto-Data`](https://github.com/miladshiraniUCB/Emotion-Detection-in-Speech/tree/main/Toronto-Data) contains the audio files we used in this work.
 2. The folder [`Notebook`](https://github.com/miladshiraniUCB/Emotion-Detection-in-Speech/tree/main/Notebook) contains the following notebooks:
