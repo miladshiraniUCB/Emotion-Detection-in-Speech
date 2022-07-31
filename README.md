@@ -15,7 +15,10 @@ make a model we need to convert the audio files into numerical values. To conver
 the audio file to a numerical data, we use python library [librosa](https://librosa.org/)
 and to denoise them we used [noisereduce](https://pypi.org/project/noisereduce/).
 Afterward we convert the denoised audio files into their corresponding spectrograms 
-using which we can train a Convolutional neural network. 
+using which we can train a Convolutional neural network. In the following figure
+we showed the effect of denoising the original audio files
+![original-denoised.png]
+
 
 
 The arrangment of this work is as follows:
