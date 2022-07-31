@@ -17,7 +17,7 @@ and to denoise them we used [noisereduce](https://pypi.org/project/noisereduce/)
 Afterward we convert the denoised audio files into their corresponding spectrograms 
 using which we can train a Convolutional neural network. In the following figure
 we showed the effect of denoising the original audio files
-![original-denoised.png]
+![](../original-denoised.png)
 
 
 
