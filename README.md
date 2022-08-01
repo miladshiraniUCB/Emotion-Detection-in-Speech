@@ -1,6 +1,7 @@
 # Emotion-Detection-in-Speech
 
-![](./emotion in speech.png)
+![](./emotion.png)
+
 image from [here](https://medium.com/@raihanh93/speech-emotion-recognition-using-deep-neural-network-part-i-68edb5921229)
 
 # Introduction
