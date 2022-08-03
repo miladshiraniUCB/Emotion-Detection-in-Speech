@@ -11,7 +11,12 @@ pronounces a word, we can understand different meaning. Therefore, both the word
 and the way it is pronounced affect our understanding of the word. As a result, 
 it would be important that we could design a virtual assistant that not only 
 does understand the word, but also it understands the emotion in the way the word
-is pronounced. 
+is pronounced. this virtual assistant can be used to assist therapists to fully 
+analyze a patient, because it is important to understand not only the meaning 
+of the word and how they are put together to make a sentence, but also it is 
+important to understand the emotions conveyed in a sentence by the patient. 
+So, we want to design and introduce a model to assist therapists with analyzing 
+the emotion of the sentences more accurately.
 
 In this work, we are trying to introduce a machine learning model that can detect the
 emotion in the sentence. In order to do so, we are using the audio data provided 
