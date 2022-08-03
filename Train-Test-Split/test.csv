@@ -1,561 +1,561 @@
 ,path,name,target
-366,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_chalk_ps.wav,OAF_chalk_ps.wav,surprise
-205,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_lose_ps.wav,OAF_lose_ps.wav,surprise
-197,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_chalk_disgust.wav,YAF_chalk_disgust.wav,disgust
-2472,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_cab_angry.wav,YAF_cab_angry.wav,angry
-2338,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_talk_disgust.wav,OAF_talk_disgust.wav,disgust
-1663,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_soap_ps.wav,YAF_soap_ps.wav,surprise
-1299,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_wag_fear.wav,OAF_wag_fear.wav,fear
-1776,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_laud_ps.wav,YAF_laud_ps.wav,surprise
-2303,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_team_disgust.wav,OAF_team_disgust.wav,disgust
-622,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_size_sad.wav,YAF_size_sad.wav,sad
-2694,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_pass_sad.wav,OAF_pass_sad.wav,sad
-1881,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_knock_fear.wav,YAF_knock_fear.wav,fear
-667,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_sub_sad.wav,YAF_sub_sad.wav,sad
-574,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_walk_happy.wav,OAF_walk_happy.wav,happy
-2188,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_dime_neutral.wav,OAF_dime_neutral.wav,neutral
-1115,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_note_neutral.wav,YAF_note_neutral.wav,neutral
-1451,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_tip_angry.wav,OAF_tip_angry.wav,angry
-2346,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_learn_disgust.wav,OAF_learn_disgust.wav,disgust
-939,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_read_happy.wav,YAF_read_happy.wav,happy
-1583,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_sub_angry.wav,OAF_sub_angry.wav,angry
-1619,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_dip_ps.wav,YAF_dip_ps.wav,surprise
-866,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_dodge_happy.wav,YAF_dodge_happy.wav,happy
-1101,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_home_neutral.wav,YAF_home_neutral.wav,neutral
-1598,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_reach_angry.wav,OAF_reach_angry.wav,angry
-2336,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_seize_disgust.wav,OAF_seize_disgust.wav,disgust
-2685,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_pool_sad.wav,OAF_pool_sad.wav,sad
-1886,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_sure_fear.wav,YAF_sure_fear.wav,fear
-1589,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_wag_angry.wav,OAF_wag_angry.wav,angry
-447,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_rough_happy.wav,OAF_rough_happy.wav,happy
-1254,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_kite_fear.wav,OAF_kite_fear.wav,fear
-935,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_mode_happy.wav,YAF_mode_happy.wav,happy
-2721,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_thumb_sad.wav,OAF_thumb_sad.wav,sad
-1586,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_soup_angry.wav,OAF_soup_angry.wav,angry
-1750,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_five_ps.wav,YAF_five_ps.wav,surprise
-1510,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_base_angry.wav,OAF_base_angry.wav,angry
-252,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_pass_ps.wav,OAF_pass_ps.wav,surprise
-891,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_moon_happy.wav,YAF_moon_happy.wav,happy
-715,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_juice_sad.wav,YAF_juice_sad.wav,sad
-327,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_knock_ps.wav,OAF_knock_ps.wav,surprise
-2208,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_shawl_disgust.wav,OAF_shawl_disgust.wav,disgust
-2543,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_cause_angry.wav,YAF_cause_angry.wav,angry
-2001,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_join_neutral.wav,OAF_join_neutral.wav,neutral
-1318,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_bar_fear.wav,OAF_bar_fear.wav,fear
-897,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_good_happy.wav,YAF_good_happy.wav,happy
-1187,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_join_neutral.wav,YAF_join_neutral.wav,neutral
-1630,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_get_ps.wav,YAF_get_ps.wav,surprise
-25,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_mess_disgust.wav,YAF_mess_disgust.wav,disgust
-1757,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_book_ps.wav,YAF_book_ps.wav,surprise
-1288,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_size_fear.wav,OAF_size_fear.wav,fear
-1645,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_check_ps.wav,YAF_check_ps.wav,surprise
-1651,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_nice_ps.wav,YAF_nice_ps.wav,surprise
-993,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_ton_happy.wav,YAF_ton_happy.wav,happy
-1329,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_mop_fear.wav,OAF_mop_fear.wav,fear
-555,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_youth_happy.wav,OAF_youth_happy.wav,happy
-922,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_near_happy.wav,YAF_near_happy.wav,happy
-1000,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_hurl_neutral.wav,YAF_hurl_neutral.wav,neutral
-512,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_bath_happy.wav,OAF_bath_happy.wav,happy
-1462,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_should_angry.wav,OAF_should_angry.wav,angry
-1270,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_wife_fear.wav,OAF_wife_fear.wav,fear
-1690,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_chief_ps.wav,YAF_chief_ps.wav,surprise
-1469,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_young_angry.wav,OAF_young_angry.wav,angry
-1644,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_base_ps.wav,YAF_base_ps.wav,surprise
-1184,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_chief_neutral.wav,YAF_chief_neutral.wav,neutral
-378,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_keen_ps.wav,OAF_keen_ps.wav,surprise
-2600,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_gaze_sad.wav,OAF_gaze_sad.wav,sad
-2104,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_jar_neutral.wav,OAF_jar_neutral.wav,neutral
-2183,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_pad_neutral.wav,OAF_pad_neutral.wav,neutral
-505,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_hash_happy.wav,OAF_hash_happy.wav,happy
-1157,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_lore_neutral.wav,YAF_lore_neutral.wav,neutral
-2565,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_sell_angry.wav,YAF_sell_angry.wav,angry
-762,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_jar_sad.wav,YAF_jar_sad.wav,sad
-429,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_life_happy.wav,OAF_life_happy.wav,happy
-1801,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_ripe_fear.wav,YAF_ripe_fear.wav,fear
-2781,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_learn_sad.wav,OAF_learn_sad.wav,sad
-2160,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_lean_neutral.wav,OAF_lean_neutral.wav,neutral
-2640,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_juice_sad.wav,OAF_juice_sad.wav,sad
-710,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_hire_sad.wav,YAF_hire_sad.wav,sad
-1238,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_sheep_fear.wav,OAF_sheep_fear.wav,fear
-285,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_haze_ps.wav,OAF_haze_ps.wav,surprise
-2634,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_germ_sad.wav,OAF_germ_sad.wav,sad
-0,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_date_disgust.wav,YAF_date_disgust.wav,disgust
-2401,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_seize_angry.wav,YAF_seize_angry.wav,angry
-48,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_pike_disgust.wav,YAF_pike_disgust.wav,disgust
-1937,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_bone_fear.wav,YAF_bone_fear.wav,fear
-135,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_vote_disgust.wav,YAF_vote_disgust.wav,disgust
-2555,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_long_angry.wav,YAF_long_angry.wav,angry
-2009,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_sure_neutral.wav,OAF_sure_neutral.wav,neutral
-1243,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_when_fear.wav,OAF_when_fear.wav,fear
-609,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_mode_sad.wav,YAF_mode_sad.wav,sad
-2069,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_thumb_neutral.wav,OAF_thumb_neutral.wav,neutral
-831,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_wash_happy.wav,YAF_wash_happy.wav,happy
-2455,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_gas_angry.wav,YAF_gas_angry.wav,angry
-106,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_vine_disgust.wav,YAF_vine_disgust.wav,disgust
-2495,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_gin_angry.wav,YAF_gin_angry.wav,angry
-1057,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_hire_neutral.wav,YAF_hire_neutral.wav,neutral
-2443,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_mess_angry.wav,YAF_mess_angry.wav,angry
-522,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_dead_happy.wav,OAF_dead_happy.wav,happy
-1466,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_south_angry.wav,OAF_south_angry.wav,angry
-1656,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_rot_ps.wav,YAF_rot_ps.wav,surprise
-1478,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_germ_angry.wav,OAF_germ_angry.wav,angry
-1753,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_jar_ps.wav,YAF_jar_ps.wav,surprise
-1258,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_tell_fear.wav,OAF_tell_fear.wav,fear
-2709,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_wash_sad.wav,OAF_wash_sad.wav,sad
-384,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_chief_ps.wav,OAF_chief_ps.wav,surprise
-976,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_tool_happy.wav,YAF_tool_happy.wav,happy
-2423,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_ripe_angry.wav,YAF_ripe_angry.wav,angry
-2799,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_rain_sad.wav,OAF_rain_sad.wav,sad
-2216,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_deep_disgust.wav,OAF_deep_disgust.wav,disgust
-1036,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_kite_neutral.wav,YAF_kite_neutral.wav,neutral
-1105,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_ring_neutral.wav,YAF_ring_neutral.wav,neutral
-68,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_lore_disgust.wav,YAF_lore_disgust.wav,disgust
-210,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_fall_ps.wav,OAF_fall_ps.wav,surprise
-1977,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_mess_fear.wav,YAF_mess_fear.wav,fear
-1827,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_jail_fear.wav,YAF_jail_fear.wav,fear
-1053,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_rain_neutral.wav,YAF_rain_neutral.wav,neutral
-71,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_bought_disgust.wav,YAF_bought_disgust.wav,disgust
-1667,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_cool_ps.wav,YAF_cool_ps.wav,surprise
-961,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_room_happy.wav,YAF_room_happy.wav,happy
-1910,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_neat_fear.wav,YAF_neat_fear.wav,fear
-981,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_gas_happy.wav,YAF_gas_happy.wav,happy
-1808,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_void_fear.wav,YAF_void_fear.wav,fear
-1349,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_jar_fear.wav,OAF_jar_fear.wav,fear
-1209,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_hash_fear.wav,OAF_hash_fear.wav,fear
-2599,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_sheep_angry.wav,YAF_sheep_angry.wav,angry
-2463,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_bought_angry.wav,YAF_bought_angry.wav,angry
-2637,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_ripe_sad.wav,OAF_ripe_sad.wav,sad
-2520,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_ring_angry.wav,YAF_ring_angry.wav,angry
-2274,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_vine_disgust.wav,OAF_vine_disgust.wav,disgust
-1779,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_mood_ps.wav,YAF_mood_ps.wav,surprise
-2353,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_jug_disgust.wav,OAF_jug_disgust.wav,disgust
-475,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_rat_happy.wav,OAF_rat_happy.wav,happy
-257,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_page_ps.wav,OAF_page_ps.wav,surprise
-1493,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_thin_angry.wav,OAF_thin_angry.wav,angry
-1041,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_red_neutral.wav,YAF_red_neutral.wav,neutral
-2227,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_hire_disgust.wav,OAF_hire_disgust.wav,disgust
-538,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_should_happy.wav,OAF_should_happy.wav,happy
-807,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_jar_happy.wav,YAF_jar_happy.wav,happy
-241,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_lore_ps.wav,OAF_lore_ps.wav,surprise
-2549,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_live_angry.wav,YAF_live_angry.wav,angry
-11,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_tool_disgust.wav,YAF_tool_disgust.wav,disgust
-742,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_keep_sad.wav,YAF_keep_sad.wav,sad
-867,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_dip_happy.wav,YAF_dip_happy.wav,happy
-2134,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_chat_neutral.wav,OAF_chat_neutral.wav,neutral
-2218,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_hash_disgust.wav,OAF_hash_disgust.wav,disgust
-276,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_pearl_ps.wav,OAF_pearl_ps.wav,surprise
-1085,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_rose_neutral.wav,YAF_rose_neutral.wav,neutral
-533,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_ring_happy.wav,OAF_ring_happy.wav,happy
-2418,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_choice_angry.wav,YAF_choice_angry.wav,angry
-1381,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_tool_fear.wav,OAF_tool_fear.wav,fear
-1311,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_merge_fear.wav,OAF_merge_fear.wav,fear
-2184,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_mill_neutral.wav,OAF_mill_neutral.wav,neutral
-817,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_youth_happy.wav,YAF_youth_happy.wav,happy
-1015,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_merge_neutral.wav,YAF_merge_neutral.wav,neutral
-2586,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_voice_angry.wav,YAF_voice_angry.wav,angry
-1424,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_kite_angry.wav,OAF_kite_angry.wav,angry
-769,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_tire_sad.wav,YAF_tire_sad.wav,sad
-673,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_shout_sad.wav,YAF_shout_sad.wav,sad
-2475,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_rag_angry.wav,YAF_rag_angry.wav,angry
-201,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_take_ps.wav,OAF_take_ps.wav,surprise
-1783,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_tip_ps.wav,YAF_tip_ps.wav,surprise
-1018,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_shirt_neutral.wav,YAF_shirt_neutral.wav,neutral
-620,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_thin_sad.wav,YAF_thin_sad.wav,sad
-2162,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_tell_neutral.wav,OAF_tell_neutral.wav,neutral
-929,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_pick_happy.wav,YAF_pick_happy.wav,happy
-2731,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_phone_sad.wav,OAF_phone_sad.wav,sad
-2753,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_far_sad.wav,OAF_far_sad.wav,sad
-1291,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_seize_fear.wav,OAF_seize_fear.wav,fear
-2490,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_jar_angry.wav,YAF_jar_angry.wav,angry
-1046,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_week_neutral.wav,YAF_week_neutral.wav,neutral
-2286,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_cheek_disgust.wav,OAF_cheek_disgust.wav,disgust
-1688,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_pass_ps.wav,YAF_pass_ps.wav,surprise
-1584,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_ditch_angry.wav,OAF_ditch_angry.wav,angry
-35,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_choice_disgust.wav,YAF_choice_disgust.wav,disgust
-66,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_nice_disgust.wav,YAF_nice_disgust.wav,disgust
-2531,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_beg_angry.wav,YAF_beg_angry.wav,angry
-2316,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_pool_disgust.wav,OAF_pool_disgust.wav,disgust
-779,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_love_sad.wav,YAF_love_sad.wav,sad
-1114,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_door_neutral.wav,YAF_door_neutral.wav,neutral
-948,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_third_happy.wav,YAF_third_happy.wav,happy
-1467,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_ring_angry.wav,OAF_ring_angry.wav,angry
-1607,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_juice_ps.wav,YAF_juice_ps.wav,surprise
-1336,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_dog_fear.wav,OAF_dog_fear.wav,fear
-1746,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_bought_ps.wav,YAF_bought_ps.wav,surprise
-24,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_mood_disgust.wav,YAF_mood_disgust.wav,disgust
-168,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_kick_disgust.wav,YAF_kick_disgust.wav,disgust
-484,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_pool_happy.wav,OAF_pool_happy.wav,happy
-793,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_deep_sad.wav,YAF_deep_sad.wav,sad
-1199,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_book_neutral.wav,YAF_book_neutral.wav,neutral
-2062,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_perch_neutral.wav,OAF_perch_neutral.wav,neutral
-1966,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_cool_fear.wav,YAF_cool_fear.wav,fear
-1317,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_gaze_fear.wav,OAF_gaze_fear.wav,fear
-1371,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_sure_fear.wav,OAF_sure_fear.wav,fear
-2202,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_voice_disgust.wav,OAF_voice_disgust.wav,disgust
-1476,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_long_angry.wav,OAF_long_angry.wav,angry
-2759,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_gun_sad.wav,OAF_gun_sad.wav,sad
-2054,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_bought_neutral.wav,OAF_bought_neutral.wav,neutral
-196,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_gaze_disgust.wav,YAF_gaze_disgust.wav,disgust
-2583,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_merge_angry.wav,YAF_merge_angry.wav,angry
-2000,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_fit_neutral.wav,OAF_fit_neutral.wav,neutral
-570,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_pole_happy.wav,OAF_pole_happy.wav,happy
-1003,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_laud_neutral.wav,YAF_laud_neutral.wav,neutral
-95,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_should_disgust.wav,YAF_should_disgust.wav,disgust
-1717,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_keep_ps.wav,YAF_keep_ps.wav,surprise
-1603,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_read_ps.wav,YAF_read_ps.wav,surprise
-1007,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_love_neutral.wav,YAF_love_neutral.wav,neutral
-302,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_tape_ps.wav,OAF_tape_ps.wav,surprise
-2291,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_shout_disgust.wav,OAF_shout_disgust.wav,disgust
-1817,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_rose_fear.wav,YAF_rose_fear.wav,fear
-1664,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_sour_ps.wav,YAF_sour_ps.wav,surprise
-442,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_ripe_happy.wav,OAF_ripe_happy.wav,happy
-1938,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_vine_fear.wav,YAF_vine_fear.wav,fear
-129,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_shack_disgust.wav,YAF_shack_disgust.wav,disgust
-722,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_young_sad.wav,YAF_young_sad.wav,sad
-2256,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_rain_disgust.wav,OAF_rain_disgust.wav,disgust
-873,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_rain_happy.wav,YAF_rain_happy.wav,happy
-1848,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_jar_fear.wav,YAF_jar_fear.wav,fear
-1069,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_deep_neutral.wav,YAF_deep_neutral.wav,neutral
-636,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_near_sad.wav,YAF_near_sad.wav,sad
-2594,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_sour_angry.wav,YAF_sour_angry.wav,angry
-198,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_third_disgust.wav,YAF_third_disgust.wav,disgust
-1023,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_seize_neutral.wav,YAF_seize_neutral.wav,neutral
-383,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_food_ps.wav,OAF_food_ps.wav,surprise
-1039,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_have_neutral.wav,YAF_have_neutral.wav,neutral
-2487,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_dab_angry.wav,YAF_dab_angry.wav,angry
-992,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_home_happy.wav,YAF_home_happy.wav,happy
-1362,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_join_fear.wav,OAF_join_fear.wav,fear
-1522,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_lore_angry.wav,OAF_lore_angry.wav,angry
-294,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_should_ps.wav,OAF_should_ps.wav,surprise
-52,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_cheek_disgust.wav,YAF_cheek_disgust.wav,disgust
-1765,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_love_ps.wav,YAF_love_ps.wav,surprise
-2513,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_youth_angry.wav,YAF_youth_angry.wav,angry
-1484,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_chat_angry.wav,OAF_chat_angry.wav,angry
-2340,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_thought_disgust.wav,OAF_thought_disgust.wav,disgust
-2561,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_germ_angry.wav,YAF_germ_angry.wav,angry
-1790,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_sell_ps.wav,YAF_sell_ps.wav,surprise
-1942,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_base_fear.wav,YAF_base_fear.wav,fear
-31,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_judge_disgust.wav,YAF_judge_disgust.wav,disgust
-603,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_kite_sad.wav,YAF_kite_sad.wav,sad
-836,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_luck_happy.wav,YAF_luck_happy.wav,happy
-1944,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_juice_fear.wav,YAF_juice_fear.wav,fear
-2048,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_long_neutral.wav,OAF_long_neutral.wav,neutral
-1662,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_tough_ps.wav,YAF_tough_ps.wav,surprise
-2378,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_bought_disgust.wav,OAF_bought_disgust.wav,disgust
-1108,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_walk_neutral.wav,YAF_walk_neutral.wav,neutral
-1035,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_gap_neutral.wav,YAF_gap_neutral.wav,neutral
-1320,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_book_fear.wav,OAF_book_fear.wav,fear
-989,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_road_happy.wav,YAF_road_happy.wav,happy
-2631,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_hole_sad.wav,OAF_hole_sad.wav,sad
-950,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_note_happy.wav,YAF_note_happy.wav,happy
-1327,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_void_fear.wav,OAF_void_fear.wav,fear
-2038,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_merge_neutral.wav,OAF_merge_neutral.wav,neutral
-1366,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_yearn_fear.wav,OAF_yearn_fear.wav,fear
-2674,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_rat_sad.wav,OAF_rat_sad.wav,sad
-47,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_numb_disgust.wav,YAF_numb_disgust.wav,disgust
-2630,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_home_sad.wav,OAF_home_sad.wav,sad
-1066,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_mode_neutral.wav,YAF_mode_neutral.wav,neutral
-861,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_shout_happy.wav,YAF_shout_happy.wav,happy
-785,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_chain_sad.wav,YAF_chain_sad.wav,sad
-1421,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_yearn_angry.wav,OAF_yearn_angry.wav,angry
-1474,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_youth_angry.wav,OAF_youth_angry.wav,angry
-739,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_fall_sad.wav,YAF_fall_sad.wav,sad
-527,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_fat_happy.wav,OAF_fat_happy.wav,happy
-2287,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_mill_disgust.wav,OAF_mill_disgust.wav,disgust
-309,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_shack_ps.wav,OAF_shack_ps.wav,surprise
-2368,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_reach_disgust.wav,OAF_reach_disgust.wav,disgust
-625,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_lid_sad.wav,YAF_lid_sad.wav,sad
-396,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_neat_ps.wav,OAF_neat_ps.wav,surprise
-2451,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_shall_angry.wav,YAF_shall_angry.wav,angry
-2751,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_read_sad.wav,OAF_read_sad.wav,sad
-1739,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_bean_ps.wav,YAF_bean_ps.wav,surprise
-1010,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_pole_neutral.wav,YAF_pole_neutral.wav,neutral
-911,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_pike_happy.wav,YAF_pike_happy.wav,happy
-337,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_pad_ps.wav,OAF_pad_ps.wav,surprise
-183,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_wheat_disgust.wav,YAF_wheat_disgust.wav,disgust
-1073,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_soap_neutral.wav,YAF_soap_neutral.wav,neutral
-320,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_rag_ps.wav,OAF_rag_ps.wav,surprise
-1908,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_turn_fear.wav,YAF_turn_fear.wav,fear
-2460,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_tool_angry.wav,YAF_tool_angry.wav,angry
-1138,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_base_neutral.wav,YAF_base_neutral.wav,neutral
-2417,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_haze_angry.wav,YAF_haze_angry.wav,angry
-1331,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_gas_fear.wav,OAF_gas_fear.wav,fear
-2760,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_road_sad.wav,OAF_road_sad.wav,sad
-332,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_check_ps.wav,OAF_check_ps.wav,surprise
-261,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_phone_ps.wav,OAF_phone_ps.wav,surprise
-2582,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_time_angry.wav,YAF_time_angry.wav,angry
-568,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_keen_happy.wav,OAF_keen_happy.wav,happy
-843,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_tape_happy.wav,YAF_tape_happy.wav,happy
-931,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_seize_happy.wav,YAF_seize_happy.wav,happy
-702,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_page_sad.wav,YAF_page_sad.wav,sad
-662,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_hit_sad.wav,YAF_hit_sad.wav,sad
-1153,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_talk_neutral.wav,YAF_talk_neutral.wav,neutral
-1711,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_learn_ps.wav,YAF_learn_ps.wav,surprise
-1880,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_loaf_fear.wav,YAF_loaf_fear.wav,fear
-2521,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_keg_angry.wav,YAF_keg_angry.wav,angry
-1766,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_puff_ps.wav,YAF_puff_ps.wav,surprise
-448,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_which_happy.wav,OAF_which_happy.wav,happy
-2510,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_take_angry.wav,YAF_take_angry.wav,angry
-453,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_mouse_happy.wav,OAF_mouse_happy.wav,happy
-2308,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_doll_disgust.wav,OAF_doll_disgust.wav,disgust
-2220,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_mode_disgust.wav,OAF_mode_disgust.wav,disgust
-1083,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_chalk_neutral.wav,YAF_chalk_neutral.wav,neutral
-1539,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_whip_angry.wav,OAF_whip_angry.wav,angry
-2791,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_lean_sad.wav,OAF_lean_sad.wav,sad
-616,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_dead_sad.wav,YAF_dead_sad.wav,sad
-374,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_rot_ps.wav,OAF_rot_ps.wav,surprise
-1437,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_shout_angry.wav,OAF_shout_angry.wav,angry
-643,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_lore_sad.wav,YAF_lore_sad.wav,sad
-191,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_neat_disgust.wav,YAF_neat_disgust.wav,disgust
-1987,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_wag_fear.wav,YAF_wag_fear.wav,fear
-1405,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_chalk_angry.wav,OAF_chalk_angry.wav,angry
-1285,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_shawl_fear.wav,OAF_shawl_fear.wav,fear
-1936,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_time_fear.wav,YAF_time_fear.wav,fear
-1885,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_laud_fear.wav,YAF_laud_fear.wav,fear
-428,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_mop_happy.wav,OAF_mop_happy.wav,happy
-1653,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_met_ps.wav,YAF_met_ps.wav,surprise
-23,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_make_disgust.wav,YAF_make_disgust.wav,disgust
-1152,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_chair_neutral.wav,YAF_chair_neutral.wav,neutral
-912,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_thin_happy.wav,YAF_thin_happy.wav,happy
-2771,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_hall_sad.wav,OAF_hall_sad.wav,sad
-1488,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_back_angry.wav,OAF_back_angry.wav,angry
-2533,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_five_angry.wav,YAF_five_angry.wav,angry
-2784,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_shout_sad.wav,OAF_shout_sad.wav,sad
-665,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_boat_sad.wav,YAF_boat_sad.wav,sad
-723,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_search_sad.wav,YAF_search_sad.wav,sad
-788,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_pool_sad.wav,YAF_pool_sad.wav,sad
-1319,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_cause_fear.wav,OAF_cause_fear.wav,fear
-2262,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_kite_disgust.wav,OAF_kite_disgust.wav,disgust
-395,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_hash_ps.wav,OAF_hash_ps.wav,surprise
-1819,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_mill_fear.wav,YAF_mill_fear.wav,fear
-1305,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_doll_fear.wav,OAF_doll_fear.wav,fear
-136,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_cool_disgust.wav,YAF_cool_disgust.wav,disgust
-1136,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_shawl_neutral.wav,YAF_shawl_neutral.wav,neutral
-2280,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_laud_disgust.wav,OAF_laud_disgust.wav,disgust
-822,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_king_happy.wav,YAF_king_happy.wav,happy
-1482,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_pole_angry.wav,OAF_pole_angry.wav,angry
-539,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_tape_happy.wav,OAF_tape_happy.wav,happy
-2774,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_week_sad.wav,OAF_week_sad.wav,sad
-254,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_sheep_ps.wav,OAF_sheep_ps.wav,surprise
-1985,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_wife_fear.wav,YAF_wife_fear.wav,fear
-1428,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_dodge_angry.wav,OAF_dodge_angry.wav,angry
-678,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_red_sad.wav,YAF_red_sad.wav,sad
-1326,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_fail_fear.wav,OAF_fail_fear.wav,fear
-2171,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_week_neutral.wav,OAF_week_neutral.wav,neutral
-269,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_pool_ps.wav,OAF_pool_ps.wav,surprise
-1525,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_read_angry.wav,OAF_read_angry.wav,angry
-595,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_time_happy.wav,OAF_time_happy.wav,happy
-2777,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_perch_sad.wav,OAF_perch_sad.wav,sad
-789,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_jug_sad.wav,YAF_jug_sad.wav,sad
-2629,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_puff_sad.wav,OAF_puff_sad.wav,sad
-221,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_thought_ps.wav,OAF_thought_ps.wav,surprise
-2413,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_which_angry.wav,YAF_which_angry.wav,angry
-1814,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_talk_fear.wav,YAF_talk_fear.wav,fear
-211,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_which_ps.wav,OAF_which_ps.wav,surprise
-1738,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_far_ps.wav,YAF_far_ps.wav,surprise
-2068,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_dip_neutral.wav,OAF_dip_neutral.wav,neutral
-165,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_deep_disgust.wav,YAF_deep_disgust.wav,disgust
-895,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_merge_happy.wav,YAF_merge_happy.wav,happy
-1545,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_doll_angry.wav,OAF_doll_angry.wav,angry
-305,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_bean_ps.wav,OAF_bean_ps.wav,surprise
-2339,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_lid_disgust.wav,OAF_lid_disgust.wav,disgust
-273,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_walk_ps.wav,OAF_walk_ps.wav,surprise
-1095,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_tip_neutral.wav,YAF_tip_neutral.wav,neutral
-1609,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_when_ps.wav,YAF_when_ps.wav,surprise
-2684,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_hush_sad.wav,OAF_hush_sad.wav,sad
-1544,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_shack_angry.wav,OAF_shack_angry.wav,angry
-2257,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_tell_disgust.wav,OAF_tell_disgust.wav,disgust
-406,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_lore_happy.wav,OAF_lore_happy.wav,happy
-1789,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_back_ps.wav,YAF_back_ps.wav,surprise
-54,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_sour_disgust.wav,YAF_sour_disgust.wav,disgust
-2011,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_search_neutral.wav,OAF_search_neutral.wav,neutral
-695,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_rain_sad.wav,YAF_rain_sad.wav,sad
-2462,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_hurl_angry.wav,YAF_hurl_angry.wav,angry
-486,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_perch_happy.wav,OAF_perch_happy.wav,happy
-694,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_void_sad.wav,YAF_void_sad.wav,sad
-413,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_pick_happy.wav,OAF_pick_happy.wav,happy
-1156,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_hall_neutral.wav,YAF_hall_neutral.wav,neutral
-2612,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_tape_sad.wav,OAF_tape_sad.wav,sad
-1649,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_long_ps.wav,YAF_long_ps.wav,surprise
-906,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_chief_happy.wav,YAF_chief_happy.wav,happy
-850,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_beg_happy.wav,YAF_beg_happy.wav,happy
-1068,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_cause_neutral.wav,YAF_cause_neutral.wav,neutral
-2659,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_sail_sad.wav,OAF_sail_sad.wav,sad
-37,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_hole_disgust.wav,YAF_hole_disgust.wav,disgust
-1195,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_team_neutral.wav,YAF_team_neutral.wav,neutral
-218,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_mouse_ps.wav,OAF_mouse_ps.wav,surprise
-1161,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_nag_neutral.wav,YAF_nag_neutral.wav,neutral
-1127,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_hush_neutral.wav,YAF_hush_neutral.wav,neutral
-2250,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_cool_disgust.wav,OAF_cool_disgust.wav,disgust
-2489,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_white_angry.wav,YAF_white_angry.wav,angry
-190,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_thumb_disgust.wav,YAF_thumb_disgust.wav,disgust
-457,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_seize_happy.wav,OAF_seize_happy.wav,happy
-117,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_pole_disgust.wav,YAF_pole_disgust.wav,disgust
-2092,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_walk_neutral.wav,OAF_walk_neutral.wav,neutral
-1220,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_wash_fear.wav,OAF_wash_fear.wav,fear
-1244,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_deep_fear.wav,OAF_deep_fear.wav,fear
-2313,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_keg_disgust.wav,OAF_keg_disgust.wav,disgust
-2325,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_goal_disgust.wav,OAF_goal_disgust.wav,disgust
-1634,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_pain_ps.wav,YAF_pain_ps.wav,surprise
-1180,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_keg_neutral.wav,YAF_keg_neutral.wav,neutral
-2058,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_hole_neutral.wav,OAF_hole_neutral.wav,neutral
-1934,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_hire_fear.wav,YAF_hire_fear.wav,fear
-1388,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_south_fear.wav,OAF_south_fear.wav,fear
-674,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_keg_sad.wav,YAF_keg_sad.wav,sad
-399,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_love_ps.wav,OAF_love_ps.wav,surprise
-1828,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_chief_fear.wav,YAF_chief_fear.wav,fear
-683,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_back_sad.wav,YAF_back_sad.wav,sad
-1313,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_keg_fear.wav,OAF_keg_fear.wav,fear
-528,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_dab_happy.wav,OAF_dab_happy.wav,happy
-26,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_cab_disgust.wav,YAF_cab_disgust.wav,disgust
-562,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_laud_happy.wav,OAF_laud_happy.wav,happy
-1323,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_hall_fear.wav,OAF_hall_fear.wav,fear
-1485,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_keen_angry.wav,OAF_keen_angry.wav,angry
-13,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_dip_disgust.wav,YAF_dip_disgust.wav,disgust
-1064,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_kick_neutral.wav,YAF_kick_neutral.wav,neutral
-1289,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_dodge_fear.wav,OAF_dodge_fear.wav,fear
-2522,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_rush_angry.wav,YAF_rush_angry.wav,angry
-736,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_ripe_sad.wav,YAF_ripe_sad.wav,sad
-613,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_ditch_sad.wav,YAF_ditch_sad.wav,sad
-840,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_ring_happy.wav,YAF_ring_happy.wav,happy
-2515,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_rot_angry.wav,YAF_rot_angry.wav,angry
-192,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_rose_disgust.wav,YAF_rose_disgust.wav,disgust
-641,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_bar_sad.wav,YAF_bar_sad.wav,sad
-808,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_white_happy.wav,YAF_white_happy.wav,happy
-1449,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_witch_angry.wav,OAF_witch_angry.wav,angry
-546,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_luck_happy.wav,OAF_luck_happy.wav,happy
-2488,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_death_angry.wav,YAF_death_angry.wav,angry
-1756,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_dead_ps.wav,YAF_dead_ps.wav,surprise
-69,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_talk_disgust.wav,YAF_talk_disgust.wav,disgust
-1151,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_good_neutral.wav,YAF_good_neutral.wav,neutral
-493,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_keg_happy.wav,OAF_keg_happy.wav,happy
-1426,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_hall_angry.wav,OAF_hall_angry.wav,angry
-2786,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_dog_sad.wav,OAF_dog_sad.wav,sad
-1049,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_turn_neutral.wav,YAF_turn_neutral.wav,neutral
-1731,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_have_ps.wav,YAF_have_ps.wav,surprise
-118,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_gin_disgust.wav,YAF_gin_disgust.wav,disgust
-2647,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_keep_sad.wav,OAF_keep_sad.wav,sad
-2787,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_rag_sad.wav,OAF_rag_sad.wav,sad
-1181,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_should_neutral.wav,YAF_should_neutral.wav,neutral
-1148,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_bought_neutral.wav,YAF_bought_neutral.wav,neutral
-1324,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_ripe_fear.wav,OAF_ripe_fear.wav,fear
-2225,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_jail_disgust.wav,OAF_jail_disgust.wav,disgust
-523,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_jar_happy.wav,OAF_jar_happy.wav,happy
-988,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_bought_happy.wav,YAF_bought_happy.wav,happy
-1905,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_deep_fear.wav,YAF_deep_fear.wav,fear
-2733,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_such_sad.wav,OAF_such_sad.wav,sad
-2151,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_bath_neutral.wav,OAF_bath_neutral.wav,neutral
-540,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_chief_happy.wav,OAF_chief_happy.wav,happy
-2723,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_match_sad.wav,OAF_match_sad.wav,sad
-2173,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_calm_neutral.wav,OAF_calm_neutral.wav,neutral
-1732,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_lid_ps.wav,YAF_lid_ps.wav,surprise
-2120,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_ripe_neutral.wav,OAF_ripe_neutral.wav,neutral
-565,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_mill_happy.wav,OAF_mill_happy.wav,happy
-1871,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_shirt_fear.wav,YAF_shirt_fear.wav,fear
-2395,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_should_disgust.wav,OAF_should_disgust.wav,disgust
-1805,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_fail_fear.wav,YAF_fail_fear.wav,fear
-499,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_take_happy.wav,OAF_take_happy.wav,happy
-1859,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_mouse_fear.wav,YAF_mouse_fear.wav,fear
-170,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_which_disgust.wav,YAF_which_disgust.wav,disgust
-854,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_pole_happy.wav,YAF_pole_happy.wav,happy
-2619,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_hire_sad.wav,OAF_hire_sad.wav,sad
-266,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_make_ps.wav,OAF_make_ps.wav,surprise
-576,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_sour_happy.wav,OAF_sour_happy.wav,happy
-2575,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_south_angry.wav,YAF_south_angry.wav,angry
-1806,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_youth_fear.wav,YAF_youth_fear.wav,fear
-590,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_door_happy.wav,OAF_door_happy.wav,happy
-1358,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_young_fear.wav,OAF_young_fear.wav,fear
-1850,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_love_fear.wav,YAF_love_fear.wav,fear
-1222,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_moon_fear.wav,OAF_moon_fear.wav,fear
-1591,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_gas_angry.wav,OAF_gas_angry.wav,angry
-409,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_mode_happy.wav,OAF_mode_happy.wav,happy
-1786,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_burn_ps.wav,YAF_burn_ps.wav,surprise
-845,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_have_happy.wav,YAF_have_happy.wav,happy
-2349,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_came_disgust.wav,OAF_came_disgust.wav,disgust
-2597,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_week_angry.wav,YAF_week_angry.wav,angry
-1714,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_keg_ps.wav,YAF_keg_ps.wav,surprise
-2545,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_wheat_angry.wav,YAF_wheat_angry.wav,angry
-1984,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_seize_fear.wav,YAF_seize_fear.wav,fear
-182,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_pass_disgust.wav,YAF_pass_disgust.wav,disgust
-2560,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_should_angry.wav,YAF_should_angry.wav,angry
-1631,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_ripe_ps.wav,YAF_ripe_ps.wav,surprise
-1677,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_tire_ps.wav,YAF_tire_ps.wav,surprise
-2023,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_hall_neutral.wav,OAF_hall_neutral.wav,neutral
-2101,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_which_neutral.wav,OAF_which_neutral.wav,neutral
-2226,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_thin_disgust.wav,OAF_thin_disgust.wav,disgust
-2528,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_dead_angry.wav,YAF_dead_angry.wav,angry
-671,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_pole_sad.wav,YAF_pole_sad.wav,sad
-2301,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_keen_disgust.wav,OAF_keen_disgust.wav,disgust
-2241,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_calm_disgust.wav,OAF_calm_disgust.wav,disgust
-885,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_cool_happy.wav,YAF_cool_happy.wav,happy
-1196,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_youth_neutral.wav,YAF_youth_neutral.wav,neutral
-362,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_vine_ps.wav,OAF_vine_ps.wav,surprise
-2186,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_match_neutral.wav,OAF_match_neutral.wav,neutral
-1835,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_peg_fear.wav,YAF_peg_fear.wav,fear
-690,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_lean_sad.wav,YAF_lean_sad.wav,sad
-1287,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_hit_fear.wav,OAF_hit_fear.wav,fear
-1891,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_chair_fear.wav,YAF_chair_fear.wav,fear
-996,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_such_happy.wav,YAF_such_happy.wav,happy
-1897,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_nag_fear.wav,YAF_nag_fear.wav,fear
-1752,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_dime_ps.wav,YAF_dime_ps.wav,surprise
-778,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_long_sad.wav,YAF_long_sad.wav,sad
-91,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_mop_disgust.wav,YAF_mop_disgust.wav,disgust
-2698,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_witch_sad.wav,OAF_witch_sad.wav,sad
-2041,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_pike_neutral.wav,OAF_pike_neutral.wav,neutral
-2066,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_shall_neutral.wav,OAF_shall_neutral.wav,neutral
-2438,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_vote_angry.wav,YAF_vote_angry.wav,angry
-657,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_wag_sad.wav,YAF_wag_sad.wav,sad
-2710,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_mode_sad.wav,OAF_mode_sad.wav,sad
-2154,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_met_neutral.wav,OAF_met_neutral.wav,neutral
-1322,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_wheat_fear.wav,OAF_wheat_fear.wav,fear
-1972,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_cheek_fear.wav,YAF_cheek_fear.wav,fear
-217,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_lid_ps.wav,OAF_lid_ps.wav,surprise
-2636,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_mop_sad.wav,OAF_mop_sad.wav,sad
-1703,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_talk_ps.wav,YAF_talk_ps.wav,surprise
-926,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_mop_happy.wav,YAF_mop_happy.wav,happy
-137,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_week_disgust.wav,YAF_week_disgust.wav,disgust
-1577,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_ton_angry.wav,OAF_ton_angry.wav,angry
-1857,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_gin_fear.wav,YAF_gin_fear.wav,fear
-87,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_lid_disgust.wav,YAF_lid_disgust.wav,disgust
-2093,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_puff_neutral.wav,OAF_puff_neutral.wav,neutral
-945,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_late_happy.wav,YAF_late_happy.wav,happy
-1821,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_fit_fear.wav,YAF_fit_fear.wav,fear
-1527,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_angry/OAF_peg_angry.wav,OAF_peg_angry.wav,angry
-1302,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_cheek_fear.wav,OAF_cheek_fear.wav,fear
-1686,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_doll_ps.wav,YAF_doll_ps.wav,surprise
-2361,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_thumb_disgust.wav,OAF_thumb_disgust.wav,disgust
-977,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_hush_happy.wav,YAF_hush_happy.wav,happy
-171,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_fat_disgust.wav,YAF_fat_disgust.wav,disgust
-2529,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_chair_angry.wav,YAF_chair_angry.wav,angry
-2514,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_have_angry.wav,YAF_have_angry.wav,angry
-1031,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_kill_neutral.wav,YAF_kill_neutral.wav,neutral
-920,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_check_happy.wav,YAF_check_happy.wav,happy
-2713,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_thin_sad.wav,OAF_thin_sad.wav,sad
-2100,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_beg_neutral.wav,OAF_beg_neutral.wav,neutral
-2757,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_voice_sad.wav,OAF_voice_sad.wav,sad
-2625,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Sad/OAF_said_sad.wav,OAF_said_sad.wav,sad
-2114,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_chain_neutral.wav,OAF_chain_neutral.wav,neutral
-1856,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_tough_fear.wav,YAF_tough_fear.wav,fear
-1849,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_pad_fear.wav,YAF_pad_fear.wav,fear
-177,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_boat_disgust.wav,YAF_boat_disgust.wav,disgust
-751,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_gap_sad.wav,YAF_gap_sad.wav,sad
-1855,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_pearl_fear.wav,YAF_pearl_fear.wav,fear
-1071,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_neutral/YAF_death_neutral.wav,YAF_death_neutral.wav,neutral
-19,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_dab_disgust.wav,YAF_dab_disgust.wav,disgust
-1395,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Fear/OAF_shirt_fear.wav,OAF_shirt_fear.wav,fear
-272,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_bought_ps.wav,OAF_bought_ps.wav,surprise
-2441,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_talk_angry.wav,YAF_talk_angry.wav,angry
-833,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_get_happy.wav,YAF_get_happy.wav,happy
-1621,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_ton_ps.wav,YAF_ton_ps.wav,surprise
-2544,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_angry/YAF_back_angry.wav,YAF_back_angry.wav,angry
-466,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_wag_happy.wav,OAF_wag_happy.wav,happy
-774,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_haze_sad.wav,YAF_haze_sad.wav,sad
-33,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_rat_disgust.wav,YAF_rat_disgust.wav,disgust
-394,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_tool_ps.wav,OAF_tool_ps.wav,surprise
-1994,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_fear/YAF_germ_fear.wav,YAF_germ_fear.wav,fear
-146,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_disgust/YAF_bath_disgust.wav,YAF_bath_disgust.wav,disgust
-646,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_sad/YAF_bought_sad.wav,YAF_bought_sad.wav,sad
-801,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/YAF_happy/YAF_hall_happy.wav,YAF_hall_happy.wav,happy
-2026,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_neutral/OAF_read_neutral.wav,OAF_read_neutral.wav,neutral
-411,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_happy/OAF_whip_happy.wav,OAF_whip_happy.wav,happy
-2383,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional Speech Recognition/Toronto-Data/OAF_disgust/OAF_jar_disgust.wav,OAF_jar_disgust.wav,disgust
+1785,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_kick_ps.wav,YAF_kick_ps.wav,surprise
+1681,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_jug_ps.wav,YAF_jug_ps.wav,surprise
+2332,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_good_disgust.wav,OAF_good_disgust.wav,disgust
+2473,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_such_angry.wav,YAF_such_angry.wav,angry
+2354,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_dab_disgust.wav,OAF_dab_disgust.wav,disgust
+1641,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_search_ps.wav,YAF_search_ps.wav,surprise
+1815,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_half_fear.wav,YAF_half_fear.wav,fear
+382,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_fail_ps.wav,OAF_fail_ps.wav,surprise
+2277,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_room_disgust.wav,OAF_room_disgust.wav,disgust
+2704,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_wife_sad.wav,OAF_wife_sad.wav,sad
+775,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_dip_sad.wav,YAF_dip_sad.wav,sad
+1806,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_youth_fear.wav,YAF_youth_fear.wav,fear
+2668,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_book_sad.wav,OAF_book_sad.wav,sad
+477,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_choice_happy.wav,OAF_choice_happy.wav,happy
+2171,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_week_neutral.wav,OAF_week_neutral.wav,neutral
+2025,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_nice_neutral.wav,OAF_nice_neutral.wav,neutral
+2544,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_back_angry.wav,YAF_back_angry.wav,angry
+2288,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_pole_disgust.wav,OAF_pole_disgust.wav,disgust
+450,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_jail_happy.wav,OAF_jail_happy.wav,happy
+2508,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_king_angry.wav,YAF_king_angry.wav,angry
+1632,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_turn_ps.wav,YAF_turn_ps.wav,surprise
+481,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_gas_happy.wav,OAF_gas_happy.wav,happy
+2034,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_good_neutral.wav,OAF_good_neutral.wav,neutral
+2583,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_merge_angry.wav,YAF_merge_angry.wav,angry
+107,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_yearn_disgust.wav,YAF_yearn_disgust.wav,disgust
+2681,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_cheek_sad.wav,OAF_cheek_sad.wav,sad
+1227,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_beg_fear.wav,OAF_beg_fear.wav,fear
+1458,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_knock_angry.wav,OAF_knock_angry.wav,angry
+855,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_gun_happy.wav,YAF_gun_happy.wav,happy
+1350,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_chief_fear.wav,OAF_chief_fear.wav,fear
+594,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_bone_happy.wav,OAF_bone_happy.wav,happy
+685,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_week_sad.wav,YAF_week_sad.wav,sad
+2452,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_wag_angry.wav,YAF_wag_angry.wav,angry
+251,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_doll_ps.wav,OAF_doll_ps.wav,surprise
+2401,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_seize_angry.wav,YAF_seize_angry.wav,angry
+296,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_get_ps.wav,OAF_get_ps.wav,surprise
+484,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_pool_happy.wav,OAF_pool_happy.wav,happy
+676,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_rough_sad.wav,YAF_rough_sad.wav,sad
+312,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_goose_ps.wav,OAF_goose_ps.wav,surprise
+2249,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_vote_disgust.wav,OAF_vote_disgust.wav,disgust
+1566,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_which_angry.wav,OAF_which_angry.wav,angry
+1081,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_gaze_neutral.wav,YAF_gaze_neutral.wav,neutral
+1953,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_bought_fear.wav,YAF_bought_fear.wav,fear
+512,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_bath_happy.wav,OAF_bath_happy.wav,happy
+2191,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_hurl_neutral.wav,OAF_hurl_neutral.wav,neutral
+1662,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_tough_ps.wav,YAF_tough_ps.wav,surprise
+116,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_fail_disgust.wav,YAF_fail_disgust.wav,disgust
+372,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_hole_ps.wav,OAF_hole_ps.wav,surprise
+1880,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_loaf_fear.wav,YAF_loaf_fear.wav,fear
+315,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_live_ps.wav,OAF_live_ps.wav,surprise
+329,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_mop_ps.wav,OAF_mop_ps.wav,surprise
+929,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_pick_happy.wav,YAF_pick_happy.wav,happy
+1918,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_hash_fear.wav,YAF_hash_fear.wav,fear
+920,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_check_happy.wav,YAF_check_happy.wav,happy
+417,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_fail_happy.wav,OAF_fail_happy.wav,happy
+1157,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_lore_neutral.wav,YAF_lore_neutral.wav,neutral
+546,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_luck_happy.wav,OAF_luck_happy.wav,happy
+2513,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_youth_angry.wav,YAF_youth_angry.wav,angry
+1225,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_goal_fear.wav,OAF_goal_fear.wav,fear
+1794,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_numb_ps.wav,YAF_numb_ps.wav,surprise
+2405,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_mop_angry.wav,YAF_mop_angry.wav,angry
+1770,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_hate_ps.wav,YAF_hate_ps.wav,surprise
+2005,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_gun_neutral.wav,OAF_gun_neutral.wav,neutral
+264,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_dodge_ps.wav,OAF_dodge_ps.wav,surprise
+2766,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_beg_sad.wav,OAF_beg_sad.wav,sad
+2077,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_tough_neutral.wav,OAF_tough_neutral.wav,neutral
+2018,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_loaf_neutral.wav,OAF_loaf_neutral.wav,neutral
+593,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_moon_happy.wav,OAF_moon_happy.wav,happy
+1190,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_loaf_neutral.wav,YAF_loaf_neutral.wav,neutral
+2441,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_talk_angry.wav,YAF_talk_angry.wav,angry
+689,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_join_sad.wav,YAF_join_sad.wav,sad
+543,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_knock_happy.wav,OAF_knock_happy.wav,happy
+1951,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_rag_fear.wav,YAF_rag_fear.wav,fear
+2623,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_fat_sad.wav,OAF_fat_sad.wav,sad
+2144,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_deep_neutral.wav,OAF_deep_neutral.wav,neutral
+758,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_limb_sad.wav,YAF_limb_sad.wav,sad
+2690,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_team_sad.wav,OAF_team_sad.wav,sad
+1876,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_walk_fear.wav,YAF_walk_fear.wav,fear
+1651,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_nice_ps.wav,YAF_nice_ps.wav,surprise
+792,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_team_sad.wav,YAF_team_sad.wav,sad
+2245,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_rot_disgust.wav,OAF_rot_disgust.wav,disgust
+1502,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_walk_angry.wav,OAF_walk_angry.wav,angry
+102,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_learn_disgust.wav,YAF_learn_disgust.wav,disgust
+1394,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_hurl_fear.wav,OAF_hurl_fear.wav,fear
+2274,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_vine_disgust.wav,OAF_vine_disgust.wav,disgust
+2593,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_witch_angry.wav,YAF_witch_angry.wav,angry
+2155,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_kite_neutral.wav,OAF_kite_neutral.wav,neutral
+1245,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_neat_fear.wav,OAF_neat_fear.wav,fear
+2738,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_ditch_sad.wav,OAF_ditch_sad.wav,sad
+1059,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_fat_neutral.wav,YAF_fat_neutral.wav,neutral
+901,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_bean_happy.wav,YAF_bean_happy.wav,happy
+2417,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_haze_angry.wav,YAF_haze_angry.wav,angry
+2217,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_get_disgust.wav,OAF_get_disgust.wav,disgust
+2597,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_week_angry.wav,YAF_week_angry.wav,angry
+2084,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_third_neutral.wav,OAF_third_neutral.wav,neutral
+2503,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_book_angry.wav,YAF_book_angry.wav,angry
+407,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_soap_happy.wav,OAF_soap_happy.wav,happy
+2548,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_laud_angry.wav,YAF_laud_angry.wav,angry
+1645,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_check_ps.wav,YAF_check_ps.wav,surprise
+2545,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_wheat_angry.wav,YAF_wheat_angry.wav,angry
+311,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_mill_ps.wav,OAF_mill_ps.wav,surprise
+1379,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_raid_fear.wav,OAF_raid_fear.wav,fear
+2631,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_hole_sad.wav,OAF_hole_sad.wav,sad
+387,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_pole_ps.wav,OAF_pole_ps.wav,surprise
+884,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_thumb_happy.wav,YAF_thumb_happy.wav,happy
+1506,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_kill_angry.wav,OAF_kill_angry.wav,angry
+2760,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_road_sad.wav,OAF_road_sad.wav,sad
+2228,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_tip_disgust.wav,OAF_tip_disgust.wav,disgust
+1187,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_join_neutral.wav,YAF_join_neutral.wav,neutral
+2123,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_keep_neutral.wav,OAF_keep_neutral.wav,neutral
+195,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_get_disgust.wav,YAF_get_disgust.wav,disgust
+1612,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_deep_ps.wav,YAF_deep_ps.wav,surprise
+1272,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_five_fear.wav,OAF_five_fear.wav,fear
+1260,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_witch_fear.wav,OAF_witch_fear.wav,fear
+1006,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_bar_neutral.wav,YAF_bar_neutral.wav,neutral
+121,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_love_disgust.wav,YAF_love_disgust.wav,disgust
+300,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_juice_ps.wav,OAF_juice_ps.wav,surprise
+890,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_base_happy.wav,YAF_base_happy.wav,happy
+1916,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_date_fear.wav,YAF_date_fear.wav,fear
+561,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_live_happy.wav,OAF_live_happy.wav,happy
+1952,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_thumb_fear.wav,YAF_thumb_fear.wav,fear
+1354,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_cab_fear.wav,OAF_cab_fear.wav,fear
+1211,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_bath_fear.wav,OAF_bath_fear.wav,fear
+1505,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_good_angry.wav,OAF_good_angry.wav,angry
+1588,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_road_angry.wav,OAF_road_angry.wav,angry
+2686,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_hit_sad.wav,OAF_hit_sad.wav,sad
+1421,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_yearn_angry.wav,OAF_yearn_angry.wav,angry
+179,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_mob_disgust.wav,YAF_mob_disgust.wav,disgust
+1757,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_book_ps.wav,YAF_book_ps.wav,surprise
+2289,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_pad_disgust.wav,OAF_pad_disgust.wav,disgust
+511,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_beg_happy.wav,OAF_beg_happy.wav,happy
+377,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_raise_ps.wav,OAF_raise_ps.wav,surprise
+1530,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_near_angry.wav,OAF_near_angry.wav,angry
+2057,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_rag_neutral.wav,OAF_rag_neutral.wav,neutral
+2324,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_merge_disgust.wav,OAF_merge_disgust.wav,disgust
+495,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_learn_happy.wav,OAF_learn_happy.wav,happy
+435,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_fall_happy.wav,OAF_fall_happy.wav,happy
+359,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_hush_ps.wav,OAF_hush_ps.wav,surprise
+1569,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_puff_angry.wav,OAF_puff_angry.wav,angry
+2261,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_lean_disgust.wav,OAF_lean_disgust.wav,disgust
+2701,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_kite_sad.wav,OAF_kite_sad.wav,sad
+486,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_perch_happy.wav,OAF_perch_happy.wav,happy
+1154,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_read_neutral.wav,YAF_read_neutral.wav,neutral
+126,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_sub_disgust.wav,YAF_sub_disgust.wav,disgust
+1672,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_haze_ps.wav,YAF_haze_ps.wav,surprise
+2021,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_learn_neutral.wav,OAF_learn_neutral.wav,neutral
+587,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_goal_happy.wav,OAF_goal_happy.wav,happy
+1420,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_cheek_angry.wav,OAF_cheek_angry.wav,angry
+1246,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_turn_fear.wav,OAF_turn_fear.wav,fear
+1353,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_dab_fear.wav,OAF_dab_fear.wav,fear
+1011,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_gin_neutral.wav,YAF_gin_neutral.wav,neutral
+466,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_wag_happy.wav,OAF_wag_happy.wav,happy
+1159,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_witch_neutral.wav,YAF_witch_neutral.wav,neutral
+1587,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_hit_angry.wav,OAF_hit_angry.wav,angry
+1487,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_food_angry.wav,OAF_food_angry.wav,angry
+744,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_have_sad.wav,YAF_have_sad.wav,sad
+2703,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_dime_sad.wav,OAF_dime_sad.wav,sad
+2463,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_bought_angry.wav,YAF_bought_angry.wav,angry
+1784,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_shawl_ps.wav,YAF_shawl_ps.wav,surprise
+291,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_cool_ps.wav,OAF_cool_ps.wav,surprise
+2159,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_kill_neutral.wav,OAF_kill_neutral.wav,neutral
+2723,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_match_sad.wav,OAF_match_sad.wav,sad
+1169,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_cheek_neutral.wav,YAF_cheek_neutral.wav,neutral
+418,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_lease_happy.wav,OAF_lease_happy.wav,happy
+688,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_moon_sad.wav,YAF_moon_sad.wav,sad
+701,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_peg_sad.wav,YAF_peg_sad.wav,sad
+1382,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_ton_fear.wav,OAF_ton_fear.wav,fear
+1443,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_fat_angry.wav,OAF_fat_angry.wav,angry
+1078,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_white_neutral.wav,YAF_white_neutral.wav,neutral
+2349,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_came_disgust.wav,OAF_came_disgust.wav,disgust
+302,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_tape_ps.wav,OAF_tape_ps.wav,surprise
+2528,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_dead_angry.wav,YAF_dead_angry.wav,angry
+2263,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_take_disgust.wav,OAF_take_disgust.wav,disgust
+57,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_moon_disgust.wav,YAF_moon_disgust.wav,disgust
+2443,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_mess_angry.wav,YAF_mess_angry.wav,angry
+2222,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_soap_disgust.wav,OAF_soap_disgust.wav,disgust
+600,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_dime_sad.wav,YAF_dime_sad.wav,sad
+2069,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_thumb_neutral.wav,OAF_thumb_neutral.wav,neutral
+550,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_tip_happy.wav,OAF_tip_happy.wav,happy
+1450,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_gin_angry.wav,OAF_gin_angry.wav,angry
+1732,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_lid_ps.wav,YAF_lid_ps.wav,surprise
+1838,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_perch_fear.wav,YAF_perch_fear.wav,fear
+1776,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_laud_ps.wav,YAF_laud_ps.wav,surprise
+0,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_date_disgust.wav,YAF_date_disgust.wav,disgust
+95,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_should_disgust.wav,YAF_should_disgust.wav,disgust
+596,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_kill_happy.wav,OAF_kill_happy.wav,happy
+697,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_fail_sad.wav,YAF_fail_sad.wav,sad
+2173,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_calm_neutral.wav,OAF_calm_neutral.wav,neutral
+2134,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_chat_neutral.wav,OAF_chat_neutral.wav,neutral
+1932,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_moon_fear.wav,YAF_moon_fear.wav,fear
+1973,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_soap_fear.wav,YAF_soap_fear.wav,fear
+1204,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_pole_fear.wav,OAF_pole_fear.wav,fear
+153,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_white_disgust.wav,YAF_white_disgust.wav,disgust
+1488,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_back_angry.wav,OAF_back_angry.wav,angry
+672,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_hall_sad.wav,YAF_hall_sad.wav,sad
+2026,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_read_neutral.wav,OAF_read_neutral.wav,neutral
+99,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_soup_disgust.wav,YAF_soup_disgust.wav,disgust
+2451,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_shall_angry.wav,YAF_shall_angry.wav,angry
+1133,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_choice_neutral.wav,YAF_choice_neutral.wav,neutral
+862,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_wheat_happy.wav,YAF_wheat_happy.wav,happy
+1057,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_hire_neutral.wav,YAF_hire_neutral.wav,neutral
+91,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_mop_disgust.wav,YAF_mop_disgust.wav,disgust
+279,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_jar_ps.wav,OAF_jar_ps.wav,surprise
+1778,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_hire_ps.wav,YAF_hire_ps.wav,surprise
+2143,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_get_neutral.wav,OAF_get_neutral.wav,neutral
+259,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_lean_ps.wav,OAF_lean_ps.wav,surprise
+128,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_laud_disgust.wav,YAF_laud_disgust.wav,disgust
+1207,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_met_fear.wav,OAF_met_fear.wav,fear
+1618,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_loaf_ps.wav,YAF_loaf_ps.wav,surprise
+453,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_mouse_happy.wav,OAF_mouse_happy.wav,happy
+1386,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_mob_fear.wav,OAF_mob_fear.wav,fear
+47,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_numb_disgust.wav,YAF_numb_disgust.wav,disgust
+2709,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_wash_sad.wav,OAF_wash_sad.wav,sad
+2271,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_king_disgust.wav,OAF_king_disgust.wav,disgust
+487,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_said_happy.wav,OAF_said_happy.wav,happy
+1277,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_germ_fear.wav,OAF_germ_fear.wav,fear
+1174,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_pike_neutral.wav,YAF_pike_neutral.wav,neutral
+2678,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_youth_sad.wav,OAF_youth_sad.wav,sad
+2476,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_ton_angry.wav,YAF_ton_angry.wav,angry
+2372,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_half_disgust.wav,OAF_half_disgust.wav,disgust
+1032,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_lean_neutral.wav,YAF_lean_neutral.wav,neutral
+216,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_rough_ps.wav,OAF_rough_ps.wav,surprise
+2003,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_doll_neutral.wav,OAF_doll_neutral.wav,neutral
+2414,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_lot_angry.wav,YAF_lot_angry.wav,angry
+984,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_phone_happy.wav,YAF_phone_happy.wav,happy
+1848,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_jar_fear.wav,YAF_jar_fear.wav,fear
+1589,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_wag_angry.wav,OAF_wag_angry.wav,angry
+261,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_phone_ps.wav,OAF_phone_ps.wav,surprise
+52,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_cheek_disgust.wav,YAF_cheek_disgust.wav,disgust
+262,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_goal_ps.wav,OAF_goal_ps.wav,surprise
+2459,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_rat_angry.wav,YAF_rat_angry.wav,angry
+1491,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_laud_angry.wav,OAF_laud_angry.wav,angry
+2318,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_moon_disgust.wav,OAF_moon_disgust.wav,disgust
+2564,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_search_angry.wav,YAF_search_angry.wav,angry
+212,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_pick_ps.wav,OAF_pick_ps.wav,surprise
+1813,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_luck_fear.wav,YAF_luck_fear.wav,fear
+2203,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_rush_disgust.wav,OAF_rush_disgust.wav,disgust
+2689,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_time_sad.wav,OAF_time_sad.wav,sad
+887,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_long_happy.wav,YAF_long_happy.wav,happy
+1213,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_such_fear.wav,OAF_such_fear.wav,fear
+1180,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_keg_neutral.wav,YAF_keg_neutral.wav,neutral
+304,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_beg_ps.wav,OAF_beg_ps.wav,surprise
+2268,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_youth_disgust.wav,OAF_youth_disgust.wav,disgust
+2190,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_laud_neutral.wav,OAF_laud_neutral.wav,neutral
+2197,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_gap_neutral.wav,OAF_gap_neutral.wav,neutral
+1978,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_long_fear.wav,YAF_long_fear.wav,fear
+856,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_loaf_happy.wav,YAF_loaf_happy.wav,happy
+625,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_lid_sad.wav,YAF_lid_sad.wav,sad
+910,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_week_happy.wav,YAF_week_happy.wav,happy
+1832,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_door_fear.wav,YAF_door_fear.wav,fear
+2192,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_soup_neutral.wav,OAF_soup_neutral.wav,neutral
+1206,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_nag_fear.wav,OAF_nag_fear.wav,fear
+2730,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_peg_sad.wav,OAF_peg_sad.wav,sad
+2278,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_witch_disgust.wav,OAF_witch_disgust.wav,disgust
+2620,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_came_sad.wav,OAF_came_sad.wav,sad
+2094,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_rat_neutral.wav,OAF_rat_neutral.wav,neutral
+865,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_cause_happy.wav,YAF_cause_happy.wav,happy
+675,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_shack_sad.wav,YAF_shack_sad.wav,sad
+1551,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_vote_angry.wav,OAF_vote_angry.wav,angry
+1448,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_dead_angry.wav,OAF_dead_angry.wav,angry
+2768,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_boat_sad.wav,OAF_boat_sad.wav,sad
+846,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_raid_happy.wav,YAF_raid_happy.wav,happy
+2238,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_kick_disgust.wav,OAF_kick_disgust.wav,disgust
+1707,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_nag_ps.wav,YAF_nag_ps.wav,surprise
+2350,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_wife_disgust.wav,OAF_wife_disgust.wav,disgust
+2617,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_south_sad.wav,OAF_south_sad.wav,sad
+328,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_talk_ps.wav,OAF_talk_ps.wav,surprise
+1449,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_witch_angry.wav,OAF_witch_angry.wav,angry
+2741,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_pick_sad.wav,OAF_pick_sad.wav,sad
+1620,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_pad_ps.wav,YAF_pad_ps.wav,surprise
+1038,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_bath_neutral.wav,YAF_bath_neutral.wav,neutral
+574,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_walk_happy.wav,OAF_walk_happy.wav,happy
+233,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_third_ps.wav,OAF_third_ps.wav,surprise
+2307,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_gun_disgust.wav,OAF_gun_disgust.wav,disgust
+2166,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_chief_neutral.wav,OAF_chief_neutral.wav,neutral
+213,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_nice_ps.wav,OAF_nice_ps.wav,surprise
+1881,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_knock_fear.wav,YAF_knock_fear.wav,fear
+1480,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_loaf_angry.wav,OAF_loaf_angry.wav,angry
+1195,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_team_neutral.wav,YAF_team_neutral.wav,neutral
+1452,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_merge_angry.wav,OAF_merge_angry.wav,angry
+1250,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_mode_fear.wav,OAF_mode_fear.wav,fear
+2688,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_deep_sad.wav,OAF_deep_sad.wav,sad
+395,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_hash_ps.wav,OAF_hash_ps.wav,surprise
+354,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_dab_ps.wav,OAF_dab_ps.wav,surprise
+2543,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_cause_angry.wav,YAF_cause_angry.wav,angry
+980,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_lean_happy.wav,YAF_lean_happy.wav,happy
+860,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_live_happy.wav,YAF_live_happy.wav,happy
+825,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_pool_happy.wav,YAF_pool_happy.wav,happy
+2744,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_tough_sad.wav,OAF_tough_sad.wav,sad
+709,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_came_sad.wav,YAF_came_sad.wav,sad
+2048,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_long_neutral.wav,OAF_long_neutral.wav,neutral
+337,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_pad_ps.wav,OAF_pad_ps.wav,surprise
+1839,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_late_fear.wav,YAF_late_fear.wav,fear
+2509,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_hire_angry.wav,YAF_hire_angry.wav,angry
+1779,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_mood_ps.wav,YAF_mood_ps.wav,surprise
+560,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_young_happy.wav,OAF_young_happy.wav,happy
+2470,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_yes_angry.wav,YAF_yes_angry.wav,angry
+565,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_mill_happy.wav,OAF_mill_happy.wav,happy
+143,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_red_disgust.wav,YAF_red_disgust.wav,disgust
+105,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_south_disgust.wav,YAF_south_disgust.wav,disgust
+2050,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_moon_neutral.wav,OAF_moon_neutral.wav,neutral
+1453,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_rush_angry.wav,OAF_rush_angry.wav,angry
+2757,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_voice_sad.wav,OAF_voice_sad.wav,sad
+753,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_thought_sad.wav,YAF_thought_sad.wav,sad
+1713,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_boat_ps.wav,YAF_boat_ps.wav,surprise
+2469,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_deep_angry.wav,YAF_deep_angry.wav,angry
+2644,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_have_sad.wav,OAF_have_sad.wav,sad
+2388,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_home_disgust.wav,OAF_home_disgust.wav,disgust
+1911,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_ditch_fear.wav,YAF_ditch_fear.wav,fear
+1434,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_tough_angry.wav,OAF_tough_angry.wav,angry
+1200,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_third_fear.wav,OAF_third_fear.wav,fear
+1989,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_chain_fear.wav,YAF_chain_fear.wav,fear
+1949,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_said_fear.wav,YAF_said_fear.wav,fear
+833,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_get_happy.wav,YAF_get_happy.wav,happy
+1659,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_walk_ps.wav,YAF_walk_ps.wav,surprise
+2219,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_raid_disgust.wav,OAF_raid_disgust.wav,disgust
+1073,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_soap_neutral.wav,YAF_soap_neutral.wav,neutral
+491,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_mood_happy.wav,OAF_mood_happy.wav,happy
+681,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_take_sad.wav,YAF_take_sad.wav,sad
+2435,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_sure_angry.wav,YAF_sure_angry.wav,angry
+2515,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_rot_angry.wav,YAF_rot_angry.wav,angry
+741,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_get_sad.wav,YAF_get_sad.wav,sad
+752,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_tell_sad.wav,YAF_tell_sad.wav,sad
+618,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_half_sad.wav,YAF_half_sad.wav,sad
+668,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_learn_sad.wav,YAF_learn_sad.wav,sad
+1984,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_seize_fear.wav,YAF_seize_fear.wav,fear
+184,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_tip_disgust.wav,YAF_tip_disgust.wav,disgust
+1630,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_get_ps.wav,YAF_get_ps.wav,surprise
+1359,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_tough_fear.wav,OAF_tough_fear.wav,fear
+1945,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_king_fear.wav,YAF_king_fear.wav,fear
+2221,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_knock_disgust.wav,OAF_knock_disgust.wav,disgust
+1163,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_live_neutral.wav,YAF_live_neutral.wav,neutral
+2246,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_bone_disgust.wav,OAF_bone_disgust.wav,disgust
+822,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_king_happy.wav,YAF_king_happy.wav,happy
+1413,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_void_angry.wav,OAF_void_angry.wav,angry
+531,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_date_happy.wav,OAF_date_happy.wav,happy
+652,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_doll_sad.wav,YAF_doll_sad.wav,sad
+1758,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_yes_ps.wav,YAF_yes_ps.wav,surprise
+1242,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_goose_fear.wav,OAF_goose_fear.wav,fear
+2493,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_gaze_angry.wav,YAF_gaze_angry.wav,angry
+2783,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_choice_sad.wav,OAF_choice_sad.wav,sad
+1995,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_shawl_fear.wav,YAF_shawl_fear.wav,fear
+2041,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_pike_neutral.wav,OAF_pike_neutral.wav,neutral
+316,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_whip_ps.wav,OAF_whip_ps.wav,surprise
+1534,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_lease_angry.wav,OAF_lease_angry.wav,angry
+513,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_wire_happy.wav,OAF_wire_happy.wav,happy
+2773,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_walk_sad.wav,OAF_walk_sad.wav,sad
+728,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_fit_sad.wav,YAF_fit_sad.wav,sad
+2752,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_sheep_sad.wav,OAF_sheep_sad.wav,sad
+247,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_rush_ps.wav,OAF_rush_ps.wav,surprise
+2457,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_puff_angry.wav,YAF_puff_angry.wav,angry
+1233,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_wire_fear.wav,OAF_wire_fear.wav,fear
+1626,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_time_ps.wav,YAF_time_ps.wav,surprise
+1655,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_mess_ps.wav,YAF_mess_ps.wav,surprise
+1191,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_lid_neutral.wav,YAF_lid_neutral.wav,neutral
+144,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_page_disgust.wav,YAF_page_disgust.wav,disgust
+989,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_road_happy.wav,YAF_road_happy.wav,happy
+2519,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_fit_angry.wav,YAF_fit_angry.wav,angry
+1786,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_burn_ps.wav,YAF_burn_ps.wav,surprise
+2371,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_hush_disgust.wav,OAF_hush_disgust.wav,disgust
+1628,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_gas_ps.wav,YAF_gas_ps.wav,surprise
+2199,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_vine_neutral.wav,OAF_vine_neutral.wav,neutral
+1796,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_hall_ps.wav,YAF_hall_ps.wav,surprise
+760,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_chalk_sad.wav,YAF_chalk_sad.wav,sad
+1401,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_rot_angry.wav,OAF_rot_angry.wav,angry
+2253,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_far_disgust.wav,OAF_far_disgust.wav,disgust
+958,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_fall_happy.wav,YAF_fall_happy.wav,happy
+206,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_pike_ps.wav,OAF_pike_ps.wav,surprise
+191,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_neat_disgust.wav,YAF_neat_disgust.wav,disgust
+2153,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_page_neutral.wav,OAF_page_neutral.wav,neutral
+2664,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_tire_sad.wav,OAF_tire_sad.wav,sad
+2530,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_lose_angry.wav,YAF_lose_angry.wav,angry
+985,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_dime_happy.wav,YAF_dime_happy.wav,happy
+768,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_vote_sad.wav,YAF_vote_sad.wav,sad
+530,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_five_happy.wav,OAF_five_happy.wav,happy
+1016,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_luck_neutral.wav,YAF_luck_neutral.wav,neutral
+2612,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_tape_sad.wav,OAF_tape_sad.wav,sad
+390,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_team_ps.wav,OAF_team_ps.wav,surprise
+401,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_peg_happy.wav,OAF_peg_happy.wav,happy
+577,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_gun_happy.wav,OAF_gun_happy.wav,happy
+2023,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_hall_neutral.wav,OAF_hall_neutral.wav,neutral
+735,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_germ_sad.wav,YAF_germ_sad.wav,sad
+88,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_fall_disgust.wav,YAF_fall_disgust.wav,disgust
+1044,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_size_neutral.wav,YAF_size_neutral.wav,neutral
+391,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_bone_ps.wav,OAF_bone_ps.wav,surprise
+2194,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_red_neutral.wav,OAF_red_neutral.wav,neutral
+2113,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_judge_neutral.wav,OAF_judge_neutral.wav,neutral
+59,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_long_disgust.wav,YAF_long_disgust.wav,disgust
+2559,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_perch_angry.wav,YAF_perch_angry.wav,angry
+22,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_burn_disgust.wav,YAF_burn_disgust.wav,disgust
+419,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_shall_happy.wav,OAF_shall_happy.wav,happy
+2317,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_long_disgust.wav,OAF_long_disgust.wav,disgust
+1112,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_search_neutral.wav,YAF_search_neutral.wav,neutral
+1856,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_tough_fear.wav,YAF_tough_fear.wav,fear
+1326,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_fail_fear.wav,OAF_fail_fear.wav,fear
+9,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_peg_disgust.wav,YAF_peg_disgust.wav,disgust
+2345,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_hate_disgust.wav,OAF_hate_disgust.wav,disgust
+1629,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_should_ps.wav,YAF_should_ps.wav,surprise
+1119,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_rag_neutral.wav,YAF_rag_neutral.wav,neutral
+1036,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_kite_neutral.wav,YAF_kite_neutral.wav,neutral
+1837,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_limb_fear.wav,YAF_limb_fear.wav,fear
+1983,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_death_fear.wav,YAF_death_fear.wav,fear
+798,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_chair_sad.wav,YAF_chair_sad.wav,sad
+1777,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_dodge_ps.wav,YAF_dodge_ps.wav,surprise
+1312,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_youth_fear.wav,OAF_youth_fear.wav,fear
+746,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_south_sad.wav,YAF_south_sad.wav,sad
+1996,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_make_fear.wav,YAF_make_fear.wav,fear
+519,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_yearn_happy.wav,OAF_yearn_happy.wav,happy
+188,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_ripe_disgust.wav,YAF_ripe_disgust.wav,disgust
+838,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_keg_happy.wav,YAF_keg_happy.wav,happy
+1320,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_book_fear.wav,OAF_book_fear.wav,fear
+2590,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_keep_angry.wav,YAF_keep_angry.wav,angry
+2364,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_lot_disgust.wav,OAF_lot_disgust.wav,disgust
+1025,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_yes_neutral.wav,YAF_yes_neutral.wav,neutral
+1221,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_pain_fear.wav,OAF_pain_fear.wav,fear
+1561,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_neat_angry.wav,OAF_neat_angry.wav,angry
+791,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_cool_sad.wav,YAF_cool_sad.wav,sad
+716,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_when_sad.wav,YAF_when_sad.wav,sad
+828,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_void_happy.wav,YAF_void_happy.wav,happy
+2599,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_sheep_angry.wav,YAF_sheep_angry.wav,angry
+117,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_pole_disgust.wav,YAF_pole_disgust.wav,disgust
+602,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_pad_sad.wav,YAF_pad_sad.wav,sad
+410,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_bar_happy.wav,OAF_bar_happy.wav,happy
+1499,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_gun_angry.wav,OAF_gun_angry.wav,angry
+912,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_thin_happy.wav,YAF_thin_happy.wav,happy
+2539,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_food_angry.wav,YAF_food_angry.wav,angry
+348,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_kick_ps.wav,OAF_kick_ps.wav,surprise
+123,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_rot_disgust.wav,YAF_rot_disgust.wav,disgust
+1076,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_gas_neutral.wav,YAF_gas_neutral.wav,neutral
+854,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_pole_happy.wav,YAF_pole_happy.wav,happy
+1471,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_sell_angry.wav,OAF_sell_angry.wav,angry
+662,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_hit_sad.wav,YAF_hit_sad.wav,sad
+2162,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_tell_neutral.wav,OAF_tell_neutral.wav,neutral
+332,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_check_ps.wav,OAF_check_ps.wav,surprise
+119,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_mouse_disgust.wav,YAF_mouse_disgust.wav,disgust
+2666,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_chain_sad.wav,OAF_chain_sad.wav,sad
+742,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_keep_sad.wav,YAF_keep_sad.wav,sad
+2198,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_chair_neutral.wav,OAF_chair_neutral.wav,neutral
+1045,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_vote_neutral.wav,YAF_vote_neutral.wav,neutral
+1332,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_note_fear.wav,OAF_note_fear.wav,fear
+2237,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_keep_disgust.wav,OAF_keep_disgust.wav,disgust
+983,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_mob_happy.wav,YAF_mob_happy.wav,happy
+454,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_pass_happy.wav,OAF_pass_happy.wav,happy
+1925,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_name_fear.wav,YAF_name_fear.wav,fear
+2743,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_fit_sad.wav,OAF_fit_sad.wav,sad
+1030,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_met_neutral.wav,YAF_met_neutral.wav,neutral
+848,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_date_happy.wav,YAF_date_happy.wav,happy
+774,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_haze_sad.wav,YAF_haze_sad.wav,sad
+1162,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_gun_neutral.wav,YAF_gun_neutral.wav,neutral
+323,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_date_ps.wav,OAF_date_ps.wav,surprise
+2118,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_pass_neutral.wav,OAF_pass_neutral.wav,neutral
+902,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_page_happy.wav,YAF_page_happy.wav,happy
+1936,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_time_fear.wav,YAF_time_fear.wav,fear
+2360,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_burn_disgust.wav,OAF_burn_disgust.wav,disgust
+1247,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_back_fear.wav,OAF_back_fear.wav,fear
+518,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_team_happy.wav,OAF_team_happy.wav,happy
+1959,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_shout_fear.wav,YAF_shout_fear.wav,fear
+2384,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_beg_disgust.wav,OAF_beg_disgust.wav,disgust
+922,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_near_happy.wav,YAF_near_happy.wav,happy
+2727,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_cab_sad.wav,OAF_cab_sad.wav,sad
+285,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_haze_ps.wav,OAF_haze_ps.wav,surprise
+564,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_back_happy.wav,OAF_back_happy.wav,happy
+1591,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_gas_angry.wav,OAF_gas_angry.wav,angry
+1202,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_thin_fear.wav,OAF_thin_fear.wav,fear
+965,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_lease_happy.wav,YAF_lease_happy.wav,happy
+1902,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_match_fear.wav,YAF_match_fear.wav,fear
+1321,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_fit_fear.wav,OAF_fit_fear.wav,fear
+1291,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_seize_fear.wav,OAF_seize_fear.wav,fear
+2572,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_chief_angry.wav,YAF_chief_angry.wav,angry
+892,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_voice_happy.wav,YAF_voice_happy.wav,happy
+220,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_far_ps.wav,OAF_far_ps.wav,surprise
+948,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_third_happy.wav,YAF_third_happy.wav,happy
+125,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_hurl_disgust.wav,YAF_hurl_disgust.wav,disgust
+2506,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_young_angry.wav,YAF_young_angry.wav,angry
+319,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_week_ps.wav,OAF_week_ps.wav,surprise
+2464,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_sail_angry.wav,YAF_sail_angry.wav,angry
+1891,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_chair_fear.wav,YAF_chair_fear.wav,fear
+2310,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_join_disgust.wav,OAF_join_disgust.wav,disgust
+2565,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_sell_angry.wav,YAF_sell_angry.wav,angry
+1737,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_whip_ps.wav,YAF_whip_ps.wav,surprise
+239,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_shirt_ps.wav,OAF_shirt_ps.wav,surprise
+2125,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_raise_neutral.wav,OAF_raise_neutral.wav,neutral
+2009,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_sure_neutral.wav,OAF_sure_neutral.wav,neutral
+85,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_check_disgust.wav,YAF_check_disgust.wav,disgust
+1549,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_room_angry.wav,OAF_room_angry.wav,angry
+2619,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_hire_sad.wav,OAF_hire_sad.wav,sad
+2236,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_ditch_disgust.wav,OAF_ditch_disgust.wav,disgust
+46,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_jar_disgust.wav,YAF_jar_disgust.wav,disgust
+863,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_tough_happy.wav,YAF_tough_happy.wav,happy
+2165,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_turn_neutral.wav,OAF_turn_neutral.wav,neutral
+380,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_gaze_ps.wav,OAF_gaze_ps.wav,surprise
+1012,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_fail_neutral.wav,YAF_fail_neutral.wav,neutral
+1383,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_chair_fear.wav,OAF_chair_fear.wav,fear
+2754,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_mob_sad.wav,OAF_mob_sad.wav,sad
+1935,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_pass_fear.wav,YAF_pass_fear.wav,fear
+1900,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_which_fear.wav,YAF_which_fear.wav,fear
+821,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_hire_happy.wav,YAF_hire_happy.wav,happy
+1255,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_fall_fear.wav,OAF_fall_fear.wav,fear
+241,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_lore_ps.wav,OAF_lore_ps.wav,surprise
+664,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_judge_sad.wav,YAF_judge_sad.wav,sad
+2284,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_dime_disgust.wav,OAF_dime_disgust.wav,disgust
+731,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_name_sad.wav,YAF_name_sad.wav,sad
+1192,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_food_neutral.wav,YAF_food_neutral.wav,neutral
+1132,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_beg_neutral.wav,YAF_beg_neutral.wav,neutral
+1560,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_pain_angry.wav,OAF_pain_angry.wav,angry
+684,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_voice_sad.wav,YAF_voice_sad.wav,sad
+2763,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_jug_sad.wav,OAF_jug_sad.wav,sad
+1021,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_vine_neutral.wav,YAF_vine_neutral.wav,neutral
+1369,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_road_fear.wav,OAF_road_fear.wav,fear
+1292,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_good_fear.wav,OAF_good_fear.wav,fear
+1768,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_tool_ps.wav,YAF_tool_ps.wav,surprise
+692,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_rat_sad.wav,YAF_rat_sad.wav,sad
+278,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_mess_ps.wav,OAF_mess_ps.wav,surprise
+995,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_shawl_happy.wav,YAF_shawl_happy.wav,happy
+146,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_bath_disgust.wav,YAF_bath_disgust.wav,disgust
+1454,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_luck_angry.wav,OAF_luck_angry.wav,angry
+1294,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_fat_fear.wav,OAF_fat_fear.wav,fear
+75,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_chair_disgust.wav,YAF_chair_disgust.wav,disgust
+2133,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_tip_neutral.wav,OAF_tip_neutral.wav,neutral
+581,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_week_happy.wav,OAF_week_happy.wav,happy
+1306,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_pick_fear.wav,OAF_pick_fear.wav,fear
+1521,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_soap_angry.wav,OAF_soap_angry.wav,angry
+1310,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Fear/OAF_late_fear.wav,OAF_late_fear.wav,fear
+228,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_mode_ps.wav,OAF_mode_ps.wav,surprise
+157,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_soap_disgust.wav,YAF_soap_disgust.wav,disgust
+406,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_lore_happy.wav,OAF_lore_happy.wav,happy
+93,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_chief_disgust.wav,YAF_chief_disgust.wav,disgust
+1574,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_check_angry.wav,OAF_check_angry.wav,angry
+2412,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_fail_angry.wav,YAF_fail_angry.wav,angry
+2032,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_such_neutral.wav,OAF_such_neutral.wav,neutral
+918,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_half_happy.wav,YAF_half_happy.wav,happy
+2715,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_kick_sad.wav,OAF_kick_sad.wav,sad
+1022,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_king_neutral.wav,YAF_king_neutral.wav,neutral
+713,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_whip_sad.wav,YAF_whip_sad.wav,sad
+604,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_yes_sad.wav,YAF_yes_sad.wav,sad
+2022,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_hate_neutral.wav,OAF_hate_neutral.wav,neutral
+1852,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_cab_fear.wav,YAF_cab_fear.wav,fear
+1817,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_rose_fear.wav,YAF_rose_fear.wav,fear
+2369,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_whip_disgust.wav,OAF_whip_disgust.wav,disgust
+2702,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_turn_sad.wav,OAF_turn_sad.wav,sad
+1961,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_red_fear.wav,YAF_red_fear.wav,fear
+2105,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_neutral/OAF_note_neutral.wav,OAF_note_neutral.wav,neutral
+38,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_time_disgust.wav,YAF_time_disgust.wav,disgust
+1970,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_whip_fear.wav,YAF_whip_fear.wav,fear
+281,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_youth_ps.wav,OAF_youth_ps.wav,surprise
+1590,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_angry/OAF_such_angry.wav,OAF_such_angry.wav,angry
+927,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_whip_happy.wav,YAF_whip_happy.wav,happy
+363,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Pleasant_surprise/OAF_chain_ps.wav,OAF_chain_ps.wav,surprise
+2495,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_angry/YAF_gin_angry.wav,YAF_gin_angry.wav,angry
+974,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_hurl_happy.wav,YAF_hurl_happy.wav,happy
+718,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_sad/YAF_wheat_sad.wav,YAF_wheat_sad.wav,sad
+4,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_door_disgust.wav,YAF_door_disgust.wav,disgust
+1631,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_pleasant_surprised/YAF_ripe_ps.wav,YAF_ripe_ps.wav,surprise
+1987,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_fear/YAF_wag_fear.wav,YAF_wag_fear.wav,fear
+68,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_disgust/YAF_lore_disgust.wav,YAF_lore_disgust.wav,disgust
+2710,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_Sad/OAF_mode_sad.wav,OAF_mode_sad.wav,sad
+970,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_happy/YAF_sub_happy.wav,YAF_sub_happy.wav,happy
+1028,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/YAF_neutral/YAF_dodge_neutral.wav,YAF_dodge_neutral.wav,neutral
+496,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_happy/OAF_fit_happy.wav,OAF_fit_happy.wav,happy
+2348,/Users/miladshirani/Documents/Flatiron/phase_5/Emotional-Speech-Recognition/Toronto-Data/OAF_disgust/OAF_goose_disgust.wav,OAF_goose_disgust.wav,disgust

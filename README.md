@@ -1,6 +1,6 @@
 # Emotion-Detection-in-Speech
 
-![](./emotion.png)
+![](./Images/emotion.png)
 
 image from [here](https://medium.com/@raihanh93/speech-emotion-recognition-using-deep-neural-network-part-i-68edb5921229)
 
@@ -48,16 +48,28 @@ The arrangement of this work is as follows
 3. The folder [`Train-Test-Split`](https://github.com/miladshiraniUCB/Emotion-Detection-in-Speech/tree/main/Train-Test-Split) contains the training and testing dataframes.
 4. The folder [`mel_spectrogram`](https://github.com/miladshiraniUCB/Emotion-Detection-in-Speech/tree/main/mel_spectrogram) contains the spectrograms of the audio files.
 
+# Repository Structure
+
+```
+├── NImages: Images for README
+├── Notebook: Modeling Notebooks
+├── PDFs: PDF files of the notebooks and Presentation
+├── Toronto-Data : data used for modeling
+├── Train-Test-Split: dataframes for creating train and test sets
+├── mel_spectrogram: mel spectrograms of the audio files to be used for modeling
+├── README.md : project information and repository structure
+```
+
 # Some Visualizations
 
 In the following figure we showed the effect of denoising of an original audio file
 
-![](./original-denoised.png)
+![](./Images/original-denoised.png)
 
 and the corresponding spectrogram for the same audio file for the original and
 denoised cases are shown below
 
-![](./spectrogram.png)
+![](./Images/spectrogram.png)
 
 
 # Results and Final Model.
@@ -69,11 +81,11 @@ choose the first neural network model as the final model of this work since this
 model has the simplest structure and its train and test losses converged after
 only 2 epochs. The summary of this model is shown below
 
-![](./final-model.png)
+![](./Images/final-model.png)
 
 the results of this model is shown below
 
-![](./results.png)
+![](./Images/results.png)
 
 
 # Recommendations to Improve the Model
