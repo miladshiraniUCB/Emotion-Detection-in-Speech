@@ -48,17 +48,6 @@ The arrangement of this work is as follows
 3. The folder [`Train-Test-Split`](https://github.com/miladshiraniUCB/Emotion-Detection-in-Speech/tree/main/Train-Test-Split) contains the training and testing dataframes.
 4. The folder [`mel_spectrogram`](https://github.com/miladshiraniUCB/Emotion-Detection-in-Speech/tree/main/mel_spectrogram) contains the spectrograms of the audio files.
 
-# Repository Structure
-
-```
-├── NImages: Images for README
-├── Notebook: Modeling Notebooks
-├── PDFs: PDF files of the notebooks and Presentation
-├── Toronto-Data : data used for modeling
-├── Train-Test-Split: dataframes for creating train and test sets
-├── mel_spectrogram: mel spectrograms of the audio files to be used for modeling
-├── README.md : project information and repository structure
-```
 
 # Some Visualizations
 
@@ -95,6 +84,19 @@ and also we would recommend exploring neural network models in which LSTM layers
 are used and train them with the numerical values of audio files without converting them
 to mel-spectrograms. Moreover, we would suggest using MFCCs (Mel Frequency Cepstral
 Coefficients) to train machine learning models. 
+
+# Repository Structure
+
+```
+├── Images: Images for README
+├── Notebook: Modeling Notebooks
+├── PDFs: PDF files of the notebooks and Presentation
+├── Project-Presentation-LaTeX-Files: LaTeX files of the presentation
+├── Toronto-Data : data used for modeling
+├── Train-Test-Split: dataframes for creating train and test sets
+├── mel_spectrogram: mel spectrograms of the audio files to be used for modeling
+├── README.md : project information and repository structure
+```
 
 
 
