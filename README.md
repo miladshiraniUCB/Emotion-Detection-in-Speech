@@ -37,12 +37,7 @@ The arrangement of this work is as follows
 2. The folder [`Notebook`](https://github.com/miladshiraniUCB/Emotion-Detection-in-Speech/tree/main/Notebook) contains the following notebooks:
     * The Exploratory Data Analysis (EDA), Train-Test split and conversion of
     audio files to spectrograms are done in the notebook [`EDA-and-Data-Visualization.ipynb`](https://github.com/miladshiraniUCB/Emotion-Detection-in-Speech/blob/main/Notebook/EDA-and-Data-Visualization.ipynb).
-    * The baseline modeling is performed in [`Modeling-LR-XGB-LGBM-TREE.ipynb`](https://github.com/miladshiraniUCB/Emotion-Detection-in-Speech/blob/main/Notebook/Modeling-LR-XGB-LGBM-TREE.ipynb). In this notebook, we used the numerical values obtained by converting
-    the audio files to train several categorical classification models which are
-    [Logistic Regression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html), [Decision Tree](https://scikit-learn.org/stable/modules/tree.html), and ensemble models such as
-    [Random Forest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html), [XGBoost](https://xgboost.readthedocs.io/en/stable/python/python_intro.html) and [LightGBM](https://lightgbm.readthedocs.io/en/v3.3.2/). 
-    * In [Modeling-CNN-and-Transfer-Learning.ipynb](https://github.com/miladshiraniUCB/Emotion-Detection-in-Speech/blob/main/Notebook/Modeling-CNN-and-Transfer-Learning.ipynb) we presented some neural network models
-    in which we used 2D convolutional layers as well as [`EfficientNetB3`](https://www.tensorflow.org/api_docs/python/tf/keras/applications/efficientnet/EfficientNetB3)
+    * In [Modeling-CNN-and-Transfer-Learning.ipynb](https://github.com/miladshiraniUCB/Emotion-Detection-in-Speech/blob/main/Notebook/Modeling-CNN-and-Transfer-Learning.ipynb) we presented some neural network models in which we used 2D convolutional layers as well as [`EfficientNetB3`](https://www.tensorflow.org/api_docs/python/tf/keras/applications/efficientnet/EfficientNetB3)
     and [`EfficientNetB7`](https://www.tensorflow.org/api_docs/python/tf/keras/applications/efficientnet/EfficientNetB7).
     
 3. The folder [`Train-Test-Split`](https://github.com/miladshiraniUCB/Emotion-Detection-in-Speech/tree/main/Train-Test-Split) contains the training and testing dataframes.
